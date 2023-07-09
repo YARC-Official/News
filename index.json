@@ -2,6 +2,7 @@
 	"articles": [
 		{
 			"md": "0000_launcher-0.1.0",
+			"type": "update",
 			"title": "The YARC Launcher Has Been Released!",
 			"thumb": "launcher",
 			"author": "EliteAsian",
