@@ -1,10 +1,10 @@
 ---
 type: update
 title: The YARC Launcher Has Been Released!
-banner: launcher
+banner: launcher.webp
 
 author: EliteAsian
-avatar: EliteAsian
+avatar: EliteAsian.png
 role: Lead Developer
 ---
 
