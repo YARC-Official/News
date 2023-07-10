@@ -1,6 +1,15 @@
 {
 	"articles": [
 		{
+			"md": "0001_yarg-0.11.0",
+			"type": "update",
+			"title": "YARG v0.11.0",
+			"thumb": "yarg.webp",
+			"author": "EliteAsian",
+			"avatar": "EliteAsian.png",
+			"release": "2023-07-10T18:00:00.000Z"
+		},
+		{
 			"md": "0000_launcher-0.1.0",
 			"type": "update",
 			"title": "The YARC Launcher Has Been Released!",
