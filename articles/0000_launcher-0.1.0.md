@@ -14,5 +14,8 @@ That being said, the YARC Launcher is still in beta. There are still things that
 
 If you have any problems, please feel free to join [our Discord](https://discord.gg/sqpu4R552r) and let us know. If there are any "launcher-breaking" bugs, we'll be sure to address it as soon as possible.
 
+**HUGE** thanks to Pantotone and Kadu for helping me get this up and running. I could not have done it without them.
+
 Thanks for all of your patience!
+
 Don't stop YARGin'.
