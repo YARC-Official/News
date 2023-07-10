@@ -6,6 +6,8 @@ banner: launcher.webp
 author: EliteAsian
 avatar: EliteAsian.png
 role: Lead Developer
+
+release: "2023-07-09T17:04:23.188Z"
 ---
 
 That's right, it's here! It's beautiful, isn't it?
