@@ -1,6 +1,15 @@
 {
 	"articles": [
 		{
+			"md": "0002_launcher-0.1.2",
+			"type": "update",
+			"title": "YARC Launcher updates v0.1.1 and v0.1.2",
+			"thumb": "launcher.webp",
+			"author": "EliteAsian",
+			"avatar": "EliteAsian.png",
+			"release": "2023-07-11T01:14:46.369Z"
+		},
+		{
 			"md": "0001_yarg-0.11.0",
 			"type": "update",
 			"title": "YARG v0.11.0",
