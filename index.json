@@ -1,6 +1,15 @@
 {
 	"articles": [
 		{
+			"md": "0003_setlist-wave1",
+			"type": "announcement",
+			"title": "YARG Setlist: Wave 1 Trailer",
+			"thumb": "setlist.webp",
+			"author": "EliteAsian",
+			"avatar": "EliteAsian.png",
+			"release": "2023-07-12T17:26:27.674Z"
+		},
+		{
 			"md": "0002_launcher-0.1.2",
 			"type": "update",
 			"title": "YARC Launcher updates v0.1.1 and v0.1.2",
