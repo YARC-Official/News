@@ -1,6 +1,15 @@
 {
 	"articles": [
 		{
+			"md": "0004_yarg-0.11.1",
+			"type": "update",
+			"title": "YARG v0.11.1",
+			"thumb": "yarg.webp",
+			"author": "EliteAsian",
+			"avatar": "EliteAsian.png",
+			"release": "2023-07-16T19:16:47.374Z"
+		},
+		{
 			"md": "0003_setlist-wave1",
 			"type": "announcement",
 			"title": "YARG Setlist: Wave 1 Trailer",
