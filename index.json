@@ -1,6 +1,15 @@
 {
 	"articles": [
 		{
+			"md": "0005_setlist-wave1patch1",
+			"type": "update",
+			"title": "YARG Setlist: Wave 1 Patch",
+			"thumb": "yarg.webp",
+			"author": "Dai",
+			"avatar": "Dai.png",
+			"release": "2023-07-19T03:09:18.577Z"
+		},
+		{
 			"md": "0004_yarg-0.11.1",
 			"type": "update",
 			"title": "YARG v0.11.1",
@@ -35,15 +44,6 @@
 			"author": "EliteAsian",
 			"avatar": "EliteAsian.png",
 			"release": "2023-07-10T18:00:00.000Z"
-		},
-		{
-			"md": "0000_launcher-0.1.0",
-			"type": "update",
-			"title": "The YARC Launcher Has Been Released!",
-			"thumb": "launcher.webp",
-			"author": "EliteAsian",
-			"avatar": "EliteAsian.png",
-			"release": "2023-07-09T17:04:23.188Z"
 		}
 	]
 }
