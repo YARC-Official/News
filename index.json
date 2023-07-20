@@ -7,7 +7,8 @@
 			"thumb": "setlist.webp",
 			"author": "Dai",
 			"avatar": "Dai.png",
-			"release": "2023-07-19T03:09:18.577Z"
+			"release": "2023-07-19T03:09:18.577Z",
+			"category": "setlist_official"
 		},
 		{
 			"md": "0004_yarg-0.11.1",
@@ -16,7 +17,8 @@
 			"thumb": "yarg.webp",
 			"author": "EliteAsian",
 			"avatar": "EliteAsian.png",
-			"release": "2023-07-16T19:16:47.374Z"
+			"release": "2023-07-16T19:16:47.374Z",
+			"category": "yarg"
 		},
 		{
 			"md": "0003_setlist-wave1",
@@ -25,7 +27,8 @@
 			"thumb": "setlist.webp",
 			"author": "EliteAsian",
 			"avatar": "EliteAsian.png",
-			"release": "2023-07-12T17:26:27.674Z"
+			"release": "2023-07-12T17:26:27.674Z",
+			"category": "setlist_official"
 		},
 		{
 			"md": "0002_launcher-0.1.2",
@@ -34,7 +37,8 @@
 			"thumb": "launcher.webp",
 			"author": "EliteAsian",
 			"avatar": "EliteAsian.png",
-			"release": "2023-07-11T01:14:46.369Z"
+			"release": "2023-07-11T01:14:46.369Z",
+			"category": "yarc_launcher"
 		},
 		{
 			"md": "0001_yarg-0.11.0",
@@ -43,7 +47,18 @@
 			"thumb": "yarg.webp",
 			"author": "EliteAsian",
 			"avatar": "EliteAsian.png",
-			"release": "2023-07-10T18:00:00.000Z"
+			"release": "2023-07-10T18:00:00.000Z",
+			"category": "yarg"
+		},
+		{
+			"md": "0000_launcher-0.1.0",
+			"type": "update",
+			"title": "The YARC Launcher Has Been Released!",
+			"thumb": "launcher.webp",
+			"author": "EliteAsian",
+			"avatar": "EliteAsian.png",
+			"release": "2023-07-09T17:04:23.188Z",
+			"category": "yarc_launcher"
 		}
 	]
 }
