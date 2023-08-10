@@ -3,9 +3,8 @@ type: update
 title: YARC Launcher updates v0.1.3 and v0.2.0
 banner: launcher.webp
 
-author: EliteAsian
-avatar: EliteAsian.png
-role: Lead Developer
+authors:
+  - EliteAsian123
 
 release: "2023-07-25T22:05:38.172Z"
 ---
