@@ -3,9 +3,8 @@ type: update
 title: The YARC Launcher Has Been Released!
 banner: launcher.webp
 
-author: EliteAsian
-avatar: EliteAsian.png
-role: Lead Developer
+authors:
+  - EliteAsian123
 
 release: "2023-07-09T17:04:23.188Z"
 ---

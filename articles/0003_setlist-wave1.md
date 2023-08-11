@@ -3,9 +3,8 @@ type: announcement
 title: "YARG Setlist: Wave 1 Trailer"
 banner: generic.webp
 
-author: EliteAsian
-avatar: EliteAsian.png
-role: Lead Developer
+authors:
+  - EliteAsian123
 
 video: "https://www.youtube.com/watch?v=Xk_HqhzvdgQ"
 

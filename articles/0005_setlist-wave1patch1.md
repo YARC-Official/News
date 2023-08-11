@@ -3,9 +3,8 @@ type: update
 title: "YARG Setlist: Wave 1 Patch"
 banner: generic.webp
 
-author: Dai
-avatar: Dai.png
-role: Charter
+authors:
+  - Dai
 
 release: "2023-07-19T03:09:18.577Z" 
 ---
