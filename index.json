@@ -1,6 +1,15 @@
 {
 	"articles": [
 		{
+			"md": "0008_setlist-wave1patch2",
+			"type": "update",
+			"title": "YARG Setlist: Wave 1 Patch 2",
+			"thumb": "setlist.webp",
+			"authors": [ "Dai" ],
+			"release": "2023-08-17T20:16:19.817Z",
+			"category": "setlist_official"
+		},
+		{
 			"md": "0007_yarg-a3",
 			"type": "announcement",
 			"title": "The YARG New Engine (v0.12) Alpha",
@@ -21,7 +30,7 @@
 		{
 			"md": "0005_setlist-wave1patch1",
 			"type": "update",
-			"title": "YARG Setlist: Wave 1 Patch",
+			"title": "YARG Setlist: Wave 1 Patch 1",
 			"thumb": "setlist.webp",
 			"authors": [ "Dai" ],
 			"release": "2023-07-19T03:09:18.577Z",

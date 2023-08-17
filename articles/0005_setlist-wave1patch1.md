@@ -1,6 +1,6 @@
 ---
 type: update
-title: "YARG Setlist: Wave 1 Patch"
+title: "YARG Setlist: Wave 1 Patch 1"
 banner: generic.webp
 
 authors:
