@@ -1,6 +1,15 @@
 {
 	"articles": [
 		{
+			"md": "0009_setlist-wave2",
+			"type": "announcement",
+			"title": "YARG Setlist: Wave 2 Trailer",
+			"thumb": "setlist.webp",
+			"authors": [ "Dai" ],
+			"release": "2023-08-21T19:49:48.527Z",
+			"category": "setlist_official"
+		},
+		{
 			"md": "0008_setlist-wave1patch2",
 			"type": "update",
 			"title": "YARG Setlist: Wave 1 Patch 2",
