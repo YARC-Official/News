@@ -1,6 +1,15 @@
 {
 	"articles": [
 		{
+			"md": "0010_yarg-a4",
+			"type": "update",
+			"title": "DRUMS in The YARG New Engine (v0.12) Alpha",
+			"thumb": "dev.webp",
+			"authors": [ "EliteAsian123" ],
+			"release": "2023-09-18T20:56:34.469Z",
+			"category": "yarg"
+		},
+        {
 			"md": "0009_setlist-wave2",
 			"type": "announcement",
 			"title": "YARG Setlist: Wave 2 Trailer",
