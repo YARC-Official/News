@@ -1,112 +1,112 @@
 {
-	"articles": [
-		{
-			"md": "0011_yarg-newengine-on-nightly",
-			"type": "announcement",
-			"title": "The YARG New Engine (v0.12) Has Been Pushed to Nightly!",
-			"thumb": "dev.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-11-14T15:49:58.357Z",
-			"category": "yarg"
-		},
-		{
-			"md": "0010_yarg-a4",
-			"type": "update",
-			"title": "DRUMS in The YARG New Engine (v0.12) Alpha",
-			"thumb": "dev.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-09-18T20:56:34.469Z",
-			"category": "yarg"
-		},
-		{
-			"md": "0009_setlist-wave2",
-			"type": "announcement",
-			"title": "YARG Setlist: Wave 2 Trailer",
-			"thumb": "setlist.webp",
-			"authors": [ "Dai" ],
-			"release": "2023-08-21T19:49:48.527Z",
-			"category": "setlist_official"
-		},
-		{
-			"md": "0008_setlist-wave1patch2",
-			"type": "update",
-			"title": "YARG Setlist: Wave 1 Patch 2",
-			"thumb": "setlist.webp",
-			"authors": [ "Dai" ],
-			"release": "2023-08-17T20:16:19.817Z",
-			"category": "setlist_official"
-		},
-		{
-			"md": "0007_yarg-a3",
-			"type": "announcement",
-			"title": "The YARG New Engine (v0.12) Alpha",
-			"thumb": "dev.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-08-16T04:47:11.526Z",
-			"category": "yarg"
-		},
-		{
-			"md": "0006_launcher-0.2.0",
-			"type": "update",
-			"title": "YARC Launcher updates v0.1.3 and v0.2.0",
-			"thumb": "launcher.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-07-25T22:05:38.172Z",
-			"category": "yarc_launcher"
-		},
-		{
-			"md": "0005_setlist-wave1patch1",
-			"type": "update",
-			"title": "YARG Setlist: Wave 1 Patch 1",
-			"thumb": "setlist.webp",
-			"authors": [ "Dai" ],
-			"release": "2023-07-19T03:09:18.577Z",
-			"category": "setlist_official"
-		},
-		{
-			"md": "0004_yarg-0.11.1",
-			"type": "update",
-			"title": "YARG v0.11.1",
-			"thumb": "yarg.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-07-16T19:16:47.374Z",
-			"category": "yarg"
-		},
-		{
-			"md": "0003_setlist-wave1",
-			"type": "announcement",
-			"title": "YARG Setlist: Wave 1 Trailer",
-			"thumb": "setlist.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-07-12T17:26:27.674Z",
-			"category": "setlist_official"
-		},
-		{
-			"md": "0002_launcher-0.1.2",
-			"type": "update",
-			"title": "YARC Launcher updates v0.1.1 and v0.1.2",
-			"thumb": "launcher.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-07-11T01:14:46.369Z",
-			"category": "yarc_launcher"
-		},
-		{
-			"md": "0001_yarg-0.11.0",
-			"type": "update",
-			"title": "YARG v0.11.0",
-			"thumb": "yarg.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-07-10T18:00:00.000Z",
-			"category": "yarg"
-		},
-		{
-			"md": "0000_launcher-0.1.0",
-			"type": "update",
-			"title": "The YARC Launcher Has Been Released!",
-			"thumb": "launcher.webp",
-			"authors": [ "EliteAsian123" ],
-			"release": "2023-07-09T17:04:23.188Z",
-			"category": "yarc_launcher"
-		}
-	]
+    "articles": [
+        {
+            "md": "0011_yarg-newengine-on-nightly",
+            "type": "announcement",
+            "title": "The YARG New Engine (v0.12) Has Been Pushed to Nightly!",
+            "thumb": "dev.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-11-14T15:49:58.357Z",
+            "category": "yarg"
+        },
+        {
+            "md": "0010_yarg-a4",
+            "type": "update",
+            "title": "DRUMS in The YARG New Engine (v0.12) Alpha",
+            "thumb": "dev.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-09-18T20:56:34.469Z",
+            "category": "yarg"
+        },
+        {
+            "md": "0009_setlist-wave2",
+            "type": "announcement",
+            "title": "YARG Setlist: Wave 2 Trailer",
+            "thumb": "setlist.webp",
+            "authors": [ "Dai" ],
+            "release": "2023-08-21T19:49:48.527Z",
+            "category": "setlist_official"
+        },
+        {
+            "md": "0008_setlist-wave1patch2",
+            "type": "update",
+            "title": "YARG Setlist: Wave 1 Patch 2",
+            "thumb": "setlist.webp",
+            "authors": [ "Dai" ],
+            "release": "2023-08-17T20:16:19.817Z",
+            "category": "setlist_official"
+        },
+        {
+            "md": "0007_yarg-a3",
+            "type": "announcement",
+            "title": "The YARG New Engine (v0.12) Alpha",
+            "thumb": "dev.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-08-16T04:47:11.526Z",
+            "category": "yarg"
+        },
+        {
+            "md": "0006_launcher-0.2.0",
+            "type": "update",
+            "title": "YARC Launcher updates v0.1.3 and v0.2.0",
+            "thumb": "launcher.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-07-25T22:05:38.172Z",
+            "category": "yarc_launcher"
+        },
+        {
+            "md": "0005_setlist-wave1patch1",
+            "type": "update",
+            "title": "YARG Setlist: Wave 1 Patch 1",
+            "thumb": "setlist.webp",
+            "authors": [ "Dai" ],
+            "release": "2023-07-19T03:09:18.577Z",
+            "category": "setlist_official"
+        },
+        {
+            "md": "0004_yarg-0.11.1",
+            "type": "update",
+            "title": "YARG v0.11.1",
+            "thumb": "yarg.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-07-16T19:16:47.374Z",
+            "category": "yarg"
+        },
+        {
+            "md": "0003_setlist-wave1",
+            "type": "announcement",
+            "title": "YARG Setlist: Wave 1 Trailer",
+            "thumb": "setlist.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-07-12T17:26:27.674Z",
+            "category": "setlist_official"
+        },
+        {
+            "md": "0002_launcher-0.1.2",
+            "type": "update",
+            "title": "YARC Launcher updates v0.1.1 and v0.1.2",
+            "thumb": "launcher.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-07-11T01:14:46.369Z",
+            "category": "yarc_launcher"
+        },
+        {
+            "md": "0001_yarg-0.11.0",
+            "type": "update",
+            "title": "YARG v0.11.0",
+            "thumb": "yarg.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-07-10T18:00:00.000Z",
+            "category": "yarg"
+        },
+        {
+            "md": "0000_launcher-0.1.0",
+            "type": "update",
+            "title": "The YARC Launcher Has Been Released!",
+            "thumb": "launcher.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-07-09T17:04:23.188Z",
+            "category": "yarc_launcher"
+        }
+    ]
 }
