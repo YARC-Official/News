@@ -1,6 +1,24 @@
 {
     "articles": [
         {
+            "md": "0013_circle-theme",
+            "type": "announcement",
+            "title": "The Circle Theme!",
+            "thumb": "circle.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-11-29T00:58:52.903Z",
+            "category": "yarg"
+        },
+        {
+            "md": "0012_setlist-wave3",
+            "type": "announcement",
+            "title": "YARG Setlist: Wave 3 Trailer",
+            "thumb": "setlist.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2023-11-29T00:58:52.903Z",
+            "category": "setlist_official"
+        },
+        {
             "md": "0011_yarg-newengine-on-nightly",
             "type": "announcement",
             "title": "The YARG New Engine (v0.12) Has Been Pushed to Nightly!",
