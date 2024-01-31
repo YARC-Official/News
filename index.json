@@ -1,6 +1,24 @@
 {
     "articles": [
         {
+            "md": "0016_yarg-0.12.0",
+            "type": "update",
+            "title": "YARG v0.12",
+            "thumb": "v0-12-release.webp",
+            "authors": [ "RileyTheFox" ],
+            "release": "2024-01-31T01:02:10.207Z",
+            "category": "yarg"
+        },
+        {
+            "md": "0015_setlist-wave4",
+            "type": "announcement",
+            "title": "YARG Setlist: Wave 4 Trailer",
+            "thumb": "setlist.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-01-30T20:02:08.231Z",
+            "category": "setlist_official"
+        },
+        {
             "md": "0014_engine-presets",
             "type": "announcement",
             "title": "Engine Presets Are Here!",
