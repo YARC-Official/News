@@ -1,6 +1,15 @@
 {
     "articles": [
         {
+            "md": "0019_1st-birthday",
+            "type": "announcement",
+            "title": "One Year of YARG",
+            "thumb": "birthday-1.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-03-10T19:27:16.182Z",
+            "category": "yarg"
+        },
+        {
             "md": "0018_setlist-wave5",
             "type": "announcement",
             "title": "YARG Setlist: Wave 5 Trailer",
