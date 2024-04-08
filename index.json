@@ -1,6 +1,17 @@
 {
     "articles": [
         {
+            "md": "0020_yarg-0.12.2",
+            "type": "update",
+            "title": "YARG v0.12.2",
+            "thumb": "yarg.webp",
+            "authors": [
+                "EliteAsian123"
+            ],
+            "release": "2024-04-08T02:55:47.350Z",
+            "category": "yarg"
+        },
+        {
             "md": "0019_1st-birthday",
             "type": "announcement",
             "title": "One Year of YARG",
