@@ -1,6 +1,15 @@
 {
     "articles": [
         {
+            "md": "0024_yarg-0.12.4",
+            "type": "update",
+            "title": "YARG v0.12.4",
+            "thumb": "yarg.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-06-29T02:55:47.350Z",
+            "category": "yarg"
+        },
+        {
             "md": "0023_setlist-wave7",
             "type": "announcement",
             "title": "YARG Setlist: Wave 7 Trailer",
@@ -23,9 +32,7 @@
             "type": "update",
             "title": "YARG v0.12.3",
             "thumb": "yarg.webp",
-            "authors": [
-                "EliteAsian123"
-            ],
+            "authors": [ "EliteAsian123" ],
             "release": "2024-04-10T02:55:47.350Z",
             "category": "yarg"
         },
@@ -34,9 +41,7 @@
             "type": "update",
             "title": "YARG v0.12.2",
             "thumb": "yarg.webp",
-            "authors": [
-                "EliteAsian123"
-            ],
+            "authors": [ "EliteAsian123" ],
             "release": "2024-04-08T02:55:47.350Z",
             "category": "yarg"
         },
