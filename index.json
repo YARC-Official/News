@@ -1,6 +1,24 @@
 {
     "articles": [
         {
+            "md": "0026_yarg-0.12.5",
+            "type": "update",
+            "title": "YARG v0.12.5",
+            "thumb": "yarg.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-08-04T16:21:50.350Z",
+            "category": "yarg"
+        },
+        {
+            "md": "0025_setlist-wave8",
+            "type": "announcement",
+            "title": "YARG Setlist: Wave 8 Trailer",
+            "thumb": "setlist.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-07-23T02:30:00.383Z",
+            "category": "setlist_official"
+        },
+        {
             "md": "0024_yarg-0.12.4",
             "type": "update",
             "title": "YARG v0.12.4",
