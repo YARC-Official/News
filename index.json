@@ -1,6 +1,24 @@
 {
     "articles": [
         {
+            "md": "0028_launcher-1.0.0b",
+            "type": "update",
+            "title": "YARC Launcher v1.0.0 Beta",
+            "thumb": "launcher.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-08-25T03:18:19.070Z",
+            "category": "yarc_launcher"
+        },
+        {
+            "md": "0027_yarg-0.12.6",
+            "type": "update",
+            "title": "YARG v0.12.6",
+            "thumb": "yarg.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-08-04T16:21:50.350Z",
+            "category": "yarg"
+        },
+        {
             "md": "0026_yarg-0.12.5",
             "type": "update",
             "title": "YARG v0.12.5",
