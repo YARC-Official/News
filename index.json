@@ -1,6 +1,15 @@
 {
     "articles": [
         {
+            "md": "0029_yarg-0.13.0-nightly",
+            "type": "announcement",
+            "title": "Major Update v0.13 Is On Nightly",
+            "thumb": "dev.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-09-21T19:33:54.990Z",
+            "category": "yarg"
+        },
+        {
             "md": "0028_launcher-1.0.0b",
             "type": "update",
             "title": "YARC Launcher v1.0.0 Beta",
