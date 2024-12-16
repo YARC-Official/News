@@ -1,6 +1,15 @@
 {
     "articles": [
         {
+            "md": "0030_setlist-wave9",
+            "type": "announcement",
+            "title": "YARG Setlist: Wave 9 Trailer",
+            "thumb": "setlist.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2024-10-26T02:30:00.383Z",
+            "category": "setlist_official"
+        },
+        {
             "md": "0029_yarg-0.13.0-nightly",
             "type": "announcement",
             "title": "Major Update v0.13 Is On Nightly",
