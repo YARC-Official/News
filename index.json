@@ -1,6 +1,15 @@
 {
     "articles": [
         {
+            "md": "0032_yarg-0.13.0",
+            "type": "update",
+            "title": "YARG v0.13.0",
+            "thumb": "yarg.webp",
+            "authors": [ "EliteAsian123" ],
+            "release": "2025-08-11T02:15:17.990Z",
+            "category": "yarg"
+        },
+        {
             "md": "0031_rog",
             "type": "announcement",
             "title": "RedOctane Games and The Future of YARG",
