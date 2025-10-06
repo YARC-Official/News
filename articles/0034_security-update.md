@@ -1,6 +1,6 @@
 ---
 type: update
-title: "Important Security Notice"
+title: Important Security Notice
 banner: generic.webp
 
 authors:
