@@ -1,6 +1,18 @@
 {
     "articles": [
         {
+            "type": "update",
+            "title": "\"Important Security Notice\"",
+            "banner": "generic.webp",
+            "authors": [
+                "wyrdough"
+            ],
+            "release": "2025-10-06T12:25:30.231542+00:00",
+            "thumb": "yarg.webp",
+            "category": "yarg",
+            "md": "0034_security-update"
+        },
+        {
             "type": "announcement",
             "title": "Venues and Launcher Update!",
             "banner": "generic.webp",
