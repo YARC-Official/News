@@ -2,6 +2,18 @@
     "articles": [
         {
             "type": "update",
+            "title": "YARG v0.13.2 released!",
+            "banner": "generic.webp",
+            "authors": [
+                "wyrdough"
+            ],
+            "release": "2025-12-25T02:25:16.193883+00:00",
+            "thumb": "yarg.webp",
+            "category": "yarg",
+            "md": "0035_yarg-0.13.2"
+        },
+        {
+            "type": "update",
             "title": "Important Security Notice",
             "banner": "generic.webp",
             "authors": [
