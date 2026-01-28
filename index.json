@@ -2,6 +2,18 @@
     "articles": [
         {
             "type": "update",
+            "title": "YARG v0.14.0 available now!",
+            "banner": "generic.webp",
+            "authors": [
+                "wyrdough"
+            ],
+            "release": "2026-01-28T20:55:39.048994+00:00",
+            "thumb": "yarg.webp",
+            "category": "yarg",
+            "md": "0036_yarg-0.14.0"
+        },
+        {
+            "type": "update",
             "title": "YARG v0.13.2 released!",
             "banner": "generic.webp",
             "authors": [
