@@ -1,6 +1,18 @@
 {
     "articles": [
         {
+            "type": "announcement",
+            "title": "New feature and crowdsourced repo -- Genrelizer",
+            "banner": "generic.webp",
+            "authors": [
+                "frickitickitavi"
+            ],
+            "release": "2026-02-18T15:16:51.142981+00:00",
+            "thumb": "dev.webp",
+            "category": "yarg",
+            "md": "0037_genrelizer-announcement"
+        },
+        {
             "type": "update",
             "title": "YARG v0.14.0 available now!",
             "banner": "generic.webp",
