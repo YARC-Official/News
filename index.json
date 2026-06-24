@@ -1,6 +1,18 @@
 {
     "articles": [
         {
+            "type": "update",
+            "title": "YARG v0.15.0 available now!",
+            "banner": "v0-15-release.webp",
+            "authors": [
+                "wyrdough"
+            ],
+            "release": "2026-06-24T21:30:46.942262+00:00",
+            "thumb": "v0-15-thumb.webp",
+            "category": "yarg",
+            "md": "0038_yarg-0.15.0"
+        },
+        {
             "type": "announcement",
             "title": "New feature and crowdsourced repo -- Genrelizer",
             "banner": "generic.webp",
