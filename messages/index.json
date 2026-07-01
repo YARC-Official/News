@@ -2,7 +2,7 @@
     "messages": {
         "dev": {
             "Menu.Main.MessageOfTheDay": {
-                "en-US": "<align=center><size=32><b>Welcome to..whatever <i>this</i> is</b></size></align>\n\nI have no idea why this even exists. You presumably know what you're doing and don't need me to tell you what's up. Not that I could anyway, since this is your build, not mine.\n\n<b>If you have any feedback or find any bugs, make sure they aren't yours before letting us know on GitHub or Discord.</b>\n\nHappy YARGin'!"
+                "en-US": "<align=center><size=32><b>Welcome to..whatever <i>this</i> is</b></size></align>\n\nI have no idea why this even exists. You presumably know what you're doing and don't need me to tell you what's up. Not that I could anyway, since this is your build, not mine. It's updatable anyway, but not really for any good reason.\n\n<b>If you have any feedback or find any bugs, make sure they aren't yours before letting us know on GitHub or Discord.</b>\n\nHappy YARGin'!"
             }
         },
         "nightly": {
