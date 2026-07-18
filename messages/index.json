@@ -7,7 +7,7 @@
         },
         "nightly": {
             "Menu.Main.MessageOfTheDay": {
-                "en-US": "<align=center><size=32><b>Welcome to v0.16 nightly!</b></size></align>\n\nv0.16 so far has only a few bugfixes and an open sustain animation. We have big plans in the works, though!\n\n<b>If you have any feedback or find any bugs, please let us know on Discord or GitHub.</b>\n\nHappy YARGin'!"
+                "en-US": "<align=center><size=32><b>Welcome to v0.16 nightly!</b></size></align>\n\n<b>Note:</b> As of b3873 custom character selection has moved to the new content menu. If you are currently using a custom character, you will need to use that menu to reselect it. Yes, it is slow to load if you have many custom characters. We'll be working to optimize it in the future.\n\n<b>If you have any feedback or find any bugs, please let us know on Discord or GitHub.</b>\n\nHappy YARGin'!"
             }
         },
         "release": {
