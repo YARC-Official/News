@@ -2,6 +2,18 @@
     "articles": [
 		{
             "type": "announcement",
+            "title": "New major features on Nightly! Or- The Enmergening...",
+            "banner": "careers.webp",
+            "authors": [
+                "Jaio"
+            ],
+            "release": "2026-10-14T23:57:58.557000+00:00",
+            "thumb": "careers.webp",
+            "category": "yarg",
+            "md": "0040_enmergening"
+        },
+		{
+            "type": "announcement",
             "title": "New YARG Website!",
             "banner": "new-website.webp",
             "authors": [
