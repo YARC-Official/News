@@ -2,6 +2,18 @@
     "articles": [
 		{
             "type": "announcement",
+            "title": "Reusable Binding Sets Now in Nightly! (aka 'The Profile Rework')",
+            "banner": "generic.webp",
+            "authors": [
+                "frickitickitavi"
+            ],
+            "release": "2026-11-21T15:52:31.000000+00:00",
+            "thumb": "dev.webp",
+            "category": "yarg",
+            "md": "0041_profile-rework"
+        },
+		{
+            "type": "announcement",
             "title": "New major features on Nightly! Or- The Enmergening...",
             "banner": "careers.webp",
             "authors": [
